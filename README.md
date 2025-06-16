@@ -60,3 +60,33 @@
     alt="Contributions Graph"
   />
 </div>
+
+<!-- Colonna 1: Gitanimals Line Mode -->
+<table align="center">
+  <tr>
+    <td align="center" width="65%">
+      <a href="https://github.com/git-goods/gitanimals">
+        <img src="https://render.gitanimals.org/lines/lucaboca82?pet-id=1"
+             width="100%" alt="Gitanimals Line Mode" />
+      </a>
+    </td>
+    <!-- Colonna 2: Random Quote -->
+    <td align="center" width="35%">
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox"
+           alt="Random Quote" />
+    </td>
+  </tr>
+  <tr>
+    <!-- Riga 2: Gitanimals Farm Mode su tutta la larghezza -->
+    <td colspan="2" align="center">
+      <a href="https://github.com/git-goods/gitanimals">
+        <img src="https://render.gitanimals.org/farms/lucaboca82"
+             width="80%" alt="Gitanimals Farm Mode" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=lucaboca82&label=Profile%20views&color=ce9927&style=flat" alt="lucaboca82" />
+</p>
