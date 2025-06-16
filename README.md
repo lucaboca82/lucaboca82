@@ -1,5 +1,14 @@
-## Hi there im Luca from Italy 👋
-### My Official Account is here: https://github.com/bocaletto-luca
+## Hi there, I'm Luca from Italy 👋
+
+### My Official Account is here:
+<p align="center">
+  <a href="https://github.com/bocaletto-luca" target="_blank">
+    <button style="padding: 10px 20px; font-size: 16px; border-radius: 5px; background-color: #4CAF50; color: white; border: none; cursor: pointer;">
+      Visit My GitHub
+    </button>
+  </a>
+</p>
+
 
 ## 📊 GitHub Stats & Charts
 
